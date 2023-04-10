@@ -1,0 +1,5 @@
+1) daisyui---> para modal o componentes
+https://daisyui.com/docs/install/
+
+2) tailwindcss---> para estilos
+https://tailwindcss.com/docs/guides/nextjs

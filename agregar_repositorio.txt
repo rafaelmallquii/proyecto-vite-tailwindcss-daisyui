@@ -1,0 +1,18 @@
+1) git fetch
+2) git checkout -b "nombre de la issue" (el nombre que tendrá la rama)
+---
+
+3) Cambios y Pruebas hasta que funciona una parte
+4) git add .
+5) git commit -m "qué parte de la issue hice"
+
+6) Cambios y Pruebas hasta que funciona una parte
+7) git add .
+8) git commit -m "qué otra parte de la issue hice"
+
+...
+(así sucesivamente hasta que se cumpla todos los requerimientos de la issue)
+...
+
+---
+n) git push origin "nombre de la issue" (el nombre que tendrá la rama) 
